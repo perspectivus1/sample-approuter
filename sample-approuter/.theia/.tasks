@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Locally run approuter",
+            "command": "npm",
+            "args": [
+                "start"
+            ],
+            "cwd": "${workspaceFolder}/approuter1/",
+            "problemMatcher": []
+        }
+    ]
+}
